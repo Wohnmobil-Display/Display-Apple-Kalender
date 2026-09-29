@@ -50,7 +50,7 @@ Für den Apple-Kalender brauchst du deine **Apple-ID** und ein **App-spezifische
 
 | Teil | Wofür | Link |
 |---|---|---|
-| Waveshare ESP32-S3-Touch-LCD-5B (5 Zoll, 1024×600) | Das Display | *folgt* |
+| Waveshare ESP32-S3-Touch-LCD-5B (5 Zoll, 1024×600) | Das Display | [Amazon\*](https://www.amazon.de/dp/B0DD7N19FT?tag=wohnmobildisp-21) |
 | VL53L0X-Näherungssensor (6 Stück) | Display wird hell, wenn jemand davorsteht (optional) | [Amazon\*](https://www.amazon.de/dp/B0D3PRSV3B?tag=wohnmobildisp-21) |
 
 \* Werbelink: Als Amazon-Partner verdiene ich an qualifizierten Verkäufen. Für dich ändert sich am Preis nichts.
