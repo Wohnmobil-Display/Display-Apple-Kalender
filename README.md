@@ -15,6 +15,9 @@ Zum Ausprobieren läuft es **72 Stunden kostenlos und ohne Einschränkung**.
 
 *Termintitel sind in allen Bildern verpixelt.*
 
+**Farben:** gedämpft grau = heute schon vorbei · grün = heute · orange = morgen · lila = diese Woche · grau = später –
+alle Farben sind am Display einstellbar.
+
 **Inhalt:** [Bedienung](#bedienung) · [Hardware](#hardware) · [Installation](#1-installation) ·
 [Testzeit](#2-erster-start-testzeit) · [Freischalten](#3-freischalten) · [Updates](#4-updates)
 
@@ -29,6 +32,8 @@ Die komplette **[Bedienungsanleitung (PDF)](docs/Bedienungsanleitung.pdf)** zeig
 | ![Kalenderabruf](bilder/screenshots/abruf.png) | ![Ruhezustand](bilder/screenshots/ruhe.png) |
 | **Apple-Zugangsdaten** | **WLAN** |
 | ![Apple-Zugangsdaten](bilder/screenshots/apple.png) | ![WLAN](bilder/screenshots/wlan.png) |
+| **Display & Farben** | **Update über WLAN** |
+| ![Display](bilder/screenshots/display.png) | ![Update](bilder/screenshots/update.png) |
 
 *Apple-ID, App-Passwort und WLAN-Name sind im Bild verpixelt – das macht das Display beim Bildschirmfoto selbst.*
 
@@ -112,8 +117,11 @@ Das Display Apple Kalender ist ein privat entwickeltes Hobbyprojekt. Für die da
 
 ## 4. Updates
 
-Neue Versionen installierst du über die [Installer-Seite](https://wohnmobil-display.github.io/Display-Apple-Kalender/) –
-**deine Einstellungen und die Freischaltung bleiben dabei erhalten**. Ein Update direkt am Display über WLAN folgt.
+Neue Versionen installiert das Display selbst über WLAN: **Zahnrad → Allgemein → Update**. Es fragt hier bei GitHub
+nach der neuesten Version, zeigt die Neuerungen und installiert sie mit **Installieren**. Startet eine neue Version
+nicht sauber, kehrt es von selbst zur vorherigen zurück. Alternativ geht es auch per Kabel über die
+[Installer-Seite](https://wohnmobil-display.github.io/Display-Apple-Kalender/).
+**Deine Einstellungen und die Freischaltung bleiben in beiden Fällen erhalten.**
 
 Was sich geändert hat, steht bei den [Versionen (Releases)](https://github.com/Wohnmobil-Display/Display-Apple-Kalender/releases).
 
